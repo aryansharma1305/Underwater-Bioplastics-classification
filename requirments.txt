@@ -1,0 +1,24 @@
+# Streamlit for UI
+streamlit
+
+# PyTorch (Ensure compatibility with your CUDA version if using GPU)
+torch
+torchvision
+torchaudio
+
+# Detectron2 (Ensure compatibility with your CUDA version if using GPU)
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu118/torch2.1/index.html
+detectron2
+
+# Computer Vision Libraries
+opencv-python
+opencv-python-headless
+
+# Scientific Computing & Image Processing
+numpy
+
+# Tempfile Handling
+tempfile
+
+# OS Utilities
+os
